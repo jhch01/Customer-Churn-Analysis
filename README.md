@@ -39,10 +39,8 @@ Focus:
 - Quantity Sold by Category
 - Average Revenue per Transaction
 ## Key Insights
-- Electronics generated the highest revenue among all product categories even though the quantity sold and average revenue was lower.
-- Customers aged 50+ contributed the largest share of revenue.
-- Revenue peaked in May, suggesting potential seasonal demand patterns that could be leveraged through targeted promotions.
-- Weekday sales generated more revenue than weekend sales, indicating that customer purchasing activity is concentrated during the workweek.
+1. New Customers Are Most At Risk
+- Customers with 0-12 months of tenure have the highest churn rate at **47.4%**.
 ## Recommendations 
 - Increase marketing efforts toward customers aged 50+, the highest revenue-generating demographic.
 - Maintain strong inventory levels for top-performing product categories, particularly Electronics.
