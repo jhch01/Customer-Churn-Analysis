@@ -1,6 +1,8 @@
 # Customer-Churn-Analysis
 ## Project Overview
-This project analyzes retail sales performance using SQL (BigQuery) and Tableau. The analysis focuses on identifying revenue trends, customer purchasing behavior, and product category performance through interactive dashboards and business-focused reporting.
+Customer retention is a major challenge for subscription-based businesses. This project analyzes customer churn patterns within a telecommunications company to identify the factors contributing to customer loss and determine which customer segments are at the highest risk of leaving. 
+
+Using SQL and Tableau, I transformed raw customer data into actionable insights by analyzing customer demographics, contract information, service subscriptions, and customer value metrics. The goal of this project was to understand why customers churn and identify opportunities to improve retention strategies. 
 ## Tools Used
 - SQL (BigQuery)
 - Tableau
@@ -13,12 +15,13 @@ The original dataset contained:
 - Products Dimension
 A reporting dataset was created in BigQuery and exported to Tableau for visualization.
 ## Business Questions
-- How does revenue change over time?
-- Which product categories generate the most revenue?
-- Which customer segments contribute the most sales?
-- Which days of the week generate the highest revenue? 
-## Dashboard 1: Executive Overview
-![Executive Overview](Dashboard/Executive%20Overview%20Dashboard.png)
+- What percentage of customers are leaving the company?
+- Which customer segments have the highest churn rates?
+- How do contract type, tenure, and payment method influence churn?
+- Are additional services associated with better customer retention?
+- Which customer groups should businesses prioritize for retention efforts? 
+## Dashboard 1: Customer Churn Overview
+![Customer Churn Overview](Dashboard/Executive%20Overview%20Dashboard.png)
 Focus: 
 - Total Revenue
 - Total Quantity Sold
