@@ -39,8 +39,16 @@ Focus:
 - Quantity Sold by Category
 - Average Revenue per Transaction
 ## Key Insights
-1. New Customers Are Most At Risk
-- Customers with 0-12 months of tenure have the highest churn rate at **47.4%**.
+1. **New Customers Are Most At Risk**
+   - Customers with 0-12 months of tenure have the highest churn rate at **47.4%**.
+2. **Contract Type Is a Major Churn Driver**
+   - Month-to-month customers have the highest churn rate at **42.7%**.
+3. **Payment Method Impacts Retention**
+   - Electronic check customers have the highest payment-method churn rate at **45.3%**.
+4. **Higher Charges Are Associated With Increased Churn**
+   - High charge customers have a churn rate of **35.4%**.
+5. **Additional Services Improve Retention**
+   - Customers without Tech Support and Online Security have churn rates above **41%**.
 ## Recommendations 
 - Increase marketing efforts toward customers aged 50+, the highest revenue-generating demographic.
 - Maintain strong inventory levels for top-performing product categories, particularly Electronics.
