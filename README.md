@@ -50,19 +50,30 @@ Focus:
 5. **Additional Services Improve Retention**
    - Customers without Tech Support and Online Security have churn rates above **41%**.
 ## Recommendations 
-- Increase marketing efforts toward customers aged 50+, the highest revenue-generating demographic.
-- Maintain strong inventory levels for top-performing product categories, particularly Electronics.
-- Align promotional campaigns with historically high-performing months such as May.
-- Conduct further analysis on underperforming categories to identify pricing, inventory, or marketing opportunities.
+- Create stronger onboarding programs for customers within their first year.
+- Encourage month-to-month customers to transition into longer-term contracts.
+- Review pricing strategies for customers with high monthly charges.
+- Promote support and security services as retention benefits.
+- Develop targeted retention campaigns for high-risk customer segments.
+- Encourage customers using electronic checks to consider alternative payment methods. 
 ## Tableau Dashboard 
 View the interactive dashboard here: 
 ADD LINK 
 ## Skills Demonstrated 
-- SQL (Joins, Aggregations, CTEs)
-- BigQuery
-- Data Modeling
-- Data Cleaning and Transformation
-- Tableau Dashboard Development
-- Business Intelligence Reporting
-- Data Visualization
-- Data Analysis and Insight Generation
+**SQL**
+- Data cleaning and transformation
+- Data aggregation
+- Customer segmentation
+- Creating analysis-ready datasets
+- Business metric calculations
+**Tableau**
+- Dashboard development
+- KPI creation
+- Data visualization
+- Business storytelling
+- Translating analysis into insights
+**Data Analysis**
+- Customer churn analysis
+- Retention analysis
+- Identifying business drivers
+- Developing actionable recommendations
