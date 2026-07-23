@@ -4,7 +4,7 @@ Customer retention is a major challenge for subscription-based businesses. This 
 
 Using SQL and Tableau, I transformed raw customer data into actionable insights by analyzing customer demographics, contract information, service subscriptions, and customer value metrics. The goal of this project was to understand why customers churn and identify opportunities to improve retention strategies. 
 ## Tools Used
-- SQL (BigQuery)
+- SQL (Google BigQuery)
 - Tableau
 - GitHub
 ## Data Model
@@ -14,7 +14,7 @@ The original dataset contained:
 - Service subscriptions
 - Customer lifetime value (CLTV)
 - Churn information
-A reporting dataset was created in BigQuery and exported to Tableau for visualization.
+- A reporting dataset was created in Google BigQuery using SQL and connected to Tableau for interactive dashboard development.
 ## Business Questions
 - What percentage of customers are leaving the company?
 - Which customer segments have the highest churn rates?
@@ -23,7 +23,7 @@ A reporting dataset was created in BigQuery and exported to Tableau for visualiz
 - Which customer groups should businesses prioritize for retention efforts? 
 ## Dashboard 1: Customer Churn Overview
 ![Customer Churn Overview](Tableau/Customer%20Churn%20Overview%20Dashboard.png)
-Focus: 
+**Focus Areas**
 - Total customers
 - Churned customers
 - Churn rate
@@ -34,14 +34,14 @@ Focus:
 - Churn rate by tenure group
 ## Dashboard 2: Customer Segments
 ![Customer Segments](Tableau/Customer%20Segments%20Dashboard.png)
-Focus: 
+**Focus Areas**
 - Customer status by gender
 - Customer status by senior citizen
 - Churn rate by partner
 - Churn rate by charge group
 ## Dashboard 3: Service Analysis
 ![Service Analysis](Tableau/Service%20Analysis%20Dashboard.png)
-Focus: 
+**Focus Areas**
 - Churn rate by tech support
 - Churn rate by online security
 - Churn rate by online backup
