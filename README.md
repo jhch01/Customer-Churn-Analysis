@@ -49,23 +49,23 @@ Focus:
 - Churn rate by streaming TV
 - Churn rate by streaming movies
 ## Key Insights
-1. **New Customers Are Most At Risk**
-   - Customers with 0-12 months of tenure have the highest churn rate at **47.4%**.
-2. **Contract Type Is a Major Churn Driver**
-   - Month-to-month customers have the highest churn rate at **42.7%**.
-3. **Payment Method Impacts Retention**
-   - Electronic check customers have the highest payment-method churn rate at **45.3%**.
-4. **Higher Charges Are Associated With Increased Churn**
-   - High charge customers have a churn rate of **35.4%**.
-5. **Additional Services Improve Retention**
-   - Customers without Tech Support and Online Security have churn rates above **41%**.
+1. **New Customers Have the Highest Churn Risk**
+   - Customers with **0-12 months of tenure** had the highest churn rate at **47.4%**, indicating the first year is the most critical period for customer retention.
+2. **Contract Type Is Strongly Associated With Churn**
+   - Customers on **month-to-month contracts** had the highest churn rate at **42.7%**, significantly higher than customers on longer-term contracts.
+3. **Payment Method Is Associated With Higher Churn**
+   - Customers using **electronic check** had the highest churn rate among payment-methods at **45.3%**.
+4. **Higher Monthly Charges Are Linked to Increased Churn**
+   - Customers in the **high charge group** experienced the highest churn rate at **35.4%**, suggesting pricing may influence customer retention.
+5. **Support and Security Services Are Associated With Lower Churn**
+   - Customers without **Tech Support (41.6%)** and **Online Security (41.8%)** experienced substantially higher churn rates than customers who subscribed to these services.
 ## Recommendations 
-- Create stronger onboarding programs for customers within their first year.
-- Encourage month-to-month customers to transition into longer-term contracts.
-- Review pricing strategies for customers with high monthly charges.
-- Promote support and security services as retention benefits.
-- Develop targeted retention campaigns for high-risk customer segments.
-- Encourage customers using electronic checks to consider alternative payment methods. 
+- Strengthen onboarding and engagement initiatives for customers during their first year.
+- Encourage customers on month-to-month contracts to transition to longer-term plans.
+- Evaluate pricing strategies and retention offers for customers with higher monthly charges.
+- Increase awareness and adoption of support and security services to improve customer engagement.
+- Develop targeted retention campaigns for customer segments with the highest churn risk.
+- Monitor customers using electronic check payments and consider incentives to encourage alternative payment methods. 
 ## Tableau Dashboard 
 View the interactive dashboard here: 
 ADD LINK 
