@@ -21,7 +21,7 @@ A reporting dataset was created in BigQuery and exported to Tableau for visualiz
 - Are additional services associated with better customer retention?
 - Which customer groups should businesses prioritize for retention efforts? 
 ## Dashboard 1: Customer Churn Overview
-![Customer Churn Overview](Tableau/Customer%20Churn%20Overview.png)
+![Customer Churn Overview](Tableau/Customer%20Churn%20Overview%20Dashboard.png)
 Focus: 
 - Total Revenue
 - Total Quantity Sold
