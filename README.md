@@ -26,14 +26,14 @@ Focus:
 - Total Revenue
 - Total Quantity Sold
 - Monthly Revenue Trend
-## Dashboard 2: Revenue Drivers
-![Revenue Drivers](Dashboard/Revenue%20Drivers%20Dashboard.png)
+## Dashboard 2: Customer Segments
+![Customer Segments](Tableau/Customer%20Segments%20Dashboard.png)
 Focus: 
 - Revenue by Gender
 - Revenue by Age Group
 - Revenue by Weekday
-## Dashboard 3: Product Performance
-![Product Performance](Dashboard/Product%20Performance%20Dashboard.png)
+## Dashboard 3: Service Analysis
+![Service Analysis](Tableau/Service%20Analysis%20Dashboard.png)
 Focus: 
 - Revenue by Product Category
 - Quantity Sold by Category
