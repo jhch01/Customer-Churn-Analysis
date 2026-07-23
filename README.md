@@ -9,10 +9,11 @@ Using SQL and Tableau, I transformed raw customer data into actionable insights 
 - GitHub
 ## Data Model
 The original dataset contained: 
-- Sales Fact Table
-- Customers Dimension
-- Dates Dimension
-- Products Dimension
+- Customer demographics
+- Account information
+- Service subscriptions
+- Customer lifetime value (CLTV)
+- Churn information
 A reporting dataset was created in BigQuery and exported to Tableau for visualization.
 ## Business Questions
 - What percentage of customers are leaving the company?
@@ -23,21 +24,30 @@ A reporting dataset was created in BigQuery and exported to Tableau for visualiz
 ## Dashboard 1: Customer Churn Overview
 ![Customer Churn Overview](Tableau/Customer%20Churn%20Overview%20Dashboard.png)
 Focus: 
-- Total Revenue
-- Total Quantity Sold
-- Monthly Revenue Trend
+- Total customers
+- Churned customers
+- Churn rate
+- Average CLTV
+- Churn rate by contract
+- Churn rate by internet service
+- Churn rate by payment method
+- Churn rate by tenure group
 ## Dashboard 2: Customer Segments
 ![Customer Segments](Tableau/Customer%20Segments%20Dashboard.png)
 Focus: 
-- Revenue by Gender
-- Revenue by Age Group
-- Revenue by Weekday
+- Customer status by gender
+- Customer status by senior citizen
+- Churn rate by partner
+- Churn rate by charge group
 ## Dashboard 3: Service Analysis
 ![Service Analysis](Tableau/Service%20Analysis%20Dashboard.png)
 Focus: 
-- Revenue by Product Category
-- Quantity Sold by Category
-- Average Revenue per Transaction
+- Churn rate by tech support
+- Churn rate by online security
+- Churn rate by online backup
+- Churn rate by device protection
+- Churn rate by streaming TV
+- Churn rate by streaming movies
 ## Key Insights
 1. **New Customers Are Most At Risk**
    - Customers with 0-12 months of tenure have the highest churn rate at **47.4%**.
