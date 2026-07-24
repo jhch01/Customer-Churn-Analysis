@@ -9,7 +9,11 @@ Using SQL and Tableau, I transformed raw customer data into actionable insights 
 - GitHub
 **Dataset**
 
-**Source:** 
+**Source:** Telco Customer Churn Dataset (Kaggle)
+
+https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset/data
+
+The dataset contains customer demographics, account information, subscribed services, customer lifetime value (CLTV), and churn information. The data was transformed using SQL in Google Bigquery before being visualized in Tableau.
 ## Data Model
 The original dataset contained: 
 - Customer demographics
