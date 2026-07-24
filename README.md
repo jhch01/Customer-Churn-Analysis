@@ -7,6 +7,9 @@ Using SQL and Tableau, I transformed raw customer data into actionable insights 
 - SQL (Google BigQuery)
 - Tableau
 - GitHub
+**Dataset**
+
+**Source:** 
 ## Data Model
 The original dataset contained: 
 - Customer demographics
@@ -14,7 +17,8 @@ The original dataset contained:
 - Service subscriptions
 - Customer lifetime value (CLTV)
 - Churn information
-- A reporting dataset was created in Google BigQuery using SQL and connected to Tableau for interactive dashboard development.
+
+A reporting dataset was created in Google BigQuery using SQL and connected to Tableau for interactive dashboard development.
 ## Business Questions
 - What percentage of customers are leaving the company?
 - Which customer segments have the highest churn rates?
