@@ -75,7 +75,7 @@ A reporting dataset was created in Google BigQuery using SQL and connected to Ta
 - Develop targeted retention campaigns for customer segments with the highest churn risk.
 - Monitor customers using electronic check payments and consider incentives to encourage alternative payment methods. 
 ## Tableau Dashboard 
-Included in the Tableau folder
+The Tableau workbook is included in the Tableau folder
 ## Skills Demonstrated 
 **SQL**
 - Data cleaning and transformation
